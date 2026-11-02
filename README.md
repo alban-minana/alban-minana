@@ -23,7 +23,7 @@ Designer & web developer based in France, currently at [Agence Lümia](https://g
 
 #### Activity
 
-<img src="https://streak-stats.demolab.com?user=alban-minana&background=0A0A0A&border=262626&stroke=262626&ring=2A5BFF&fire=2A5BFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C2D0FF&sideLabels=A3A3A3&dates=737373&border_radius=16" alt="Contribution streak" width="400">
+<img src="https://streak-stats.demolab.com?user=alban-minana&background=0A0A0A&border=262626&stroke=262626&ring=2A5BFF&fire=2A5BFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C2D0FF&sideLabels=A3A3A3&dates=737373&border_radius=16" alt="Contribution streak" width="100%">
 
 <img src="assets/snake.svg" alt="Contribution graph eaten by a snake" width="100%">
 
