@@ -15,11 +15,11 @@ Designer & web developer based in France, currently at [Agence Lümia](https://g
 
 #### Stack
 
-<img src="assets/stack.svg" alt="Figma, HTML, CSS, Sass, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Vite, GSAP, Swiper, PHP, WordPress, MySQL, Nginx, Docker, Git, GitHub, VS Code, Notion">
+<img src="assets/stack.svg" alt="Figma, HTML, CSS, Sass, Tailwind CSS, JavaScript, TypeScript, React, Next.js, Vite, GSAP, Swiper, PHP, WordPress, MySQL, Linux, Ubuntu, Bash, Nginx, Docker, Traefik, n8n, Claude, OpenAI, Mistral, Gemini, Git, GitHub, VS Code, Notion">
 
 #### Learning
 
-<img src="assets/learning.svg" alt=".NET, Kubernetes, PostgreSQL">
+<img src="assets/learning.svg" alt=".NET, Kubernetes, PostgreSQL, Grafana, Prometheus">
 
 #### Activity
 
