@@ -24,6 +24,7 @@ jobs:
         run: |
           git config user.name "Alban Minana"
           git config user.email "86537381+alban-minana@users.noreply.github.com"
+          mkdir -p assets && mv profile-3d-contrib/contrib-3d.svg assets/contrib-3d.svg && rm -rf profile-3d-contrib
           git add assets/contrib-3d.svg
           git diff --cached --quiet || git commit -m "chore: refresh 3D contribution graph"
           git push
